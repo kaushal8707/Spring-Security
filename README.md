@@ -1,5 +1,8 @@
 # Spring-Security
 
+
+// **Strict and provide security for web service request**
+
 package com.always.learner.apigateway.config;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
